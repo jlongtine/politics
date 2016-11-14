@@ -2,8 +2,8 @@
 
 ## Refactoring laws
 
-I occurs to me that we have accreted enormous complexity in our legal system. Enough complexity that the typical citizen could have no reasonable way of know the full scope of the legal code, and thus the likelihood that they are going outside of those bounds. This leads to rather unfortunate things, like the claim that the average American commits three felonies per days [1](), [2](), 
-> Note: I need to look deeper into this, and check to see if it is factually correct. [This link]() seems to suggest that it may not be. I would still argue that the complexity of our legal system has grown to such a size that it is difficult to know if you are commiting crimes. 
+I occurs to me that we have accreted enormous complexity in our legal system. Enough complexity that the typical citizen could have no reasonable way of know the full scope of the legal code, and thus the likelihood that they are going outside of those bounds. This leads to rather unfortunate things, like the claim that the average American commits three felonies per days [1](http://www.wsj.com/articles/SB10001424052748704471504574438900830760842?mg=id-wsj), [2](https://mic.com/articles/86797/8-ways-we-regularly-commit-felonies-without-realizing-it#.JmVQUe7hZ), 
+> Note: I need to look deeper into this, and check to see if it is factually correct. [This link](https://skeptics.stackexchange.com/questions/22530/does-the-average-american-unwittingly-commit-three-felonies-a-day) seems to suggest that it may not be. I would still argue that the complexity of our legal system has grown to such a size that it is difficult to know if you are commiting crimes. 
 
 I have the following questions:
 
