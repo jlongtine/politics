@@ -1,0 +1,1 @@
+I'm concerned about the over pressing on legally forcing someone to provide services to someone else, that they disagree with, or whatever... This is a fine line, frankly. And I need to put some more thought into it. 
