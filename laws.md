@@ -11,6 +11,10 @@ I have the following questions:
 1. Can we reduce the complexity of our system by strategically refactoring our system, and reducing the complexity of the rules?
 1. Can we reduce the complexity of our system by forcing sunset provisions into each and every law, thereby requiring a look at laws on a regular basis?
 
+### Things to explore:
+
+- Refactoring + laws: [Refactoring the Law: Reformulating Legal Ontologies](http://www.garretwilson.com/essays/law/refactoringlaw.html)
+
 ## On the intent of laws
 
 It seems to me that laws are passed in order to have some effect in/on the world and in/on the lives of the citizens of a country. Given that, I wonder if it might be of use to require that every law lays out the effect that it expects to have, and how it expects that effect to occur. In essence, I see the law as an assertion of a hypothesis about the way the world works. 
