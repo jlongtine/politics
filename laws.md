@@ -13,7 +13,9 @@ I have the following questions:
 
 ### Things to explore:
 
-- Refactoring + laws: [Refactoring the Law: Reformulating Legal Ontologies](http://www.garretwilson.com/essays/law/refactoringlaw.html)
+- Refactoring + laws: 
+  - [Refactoring the Law: Reformulating Legal Ontologies](http://www.garretwilson.com/essays/law/refactoringlaw.html)
+  - https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=refactoring%20laws
 
 ## On the intent of laws
 
